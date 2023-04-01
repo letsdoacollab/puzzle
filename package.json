@@ -1,0 +1,25 @@
+{
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "this is the game of puzzle",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsdoacollab/puzzle.git"
+  },
+  "keywords": [
+    "puzzle"
+  ],
+  "author": "letsdoacollab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letsdoacollab/puzzle/issues"
+  },
+  "homepage": "https://github.com/letsdoacollab/puzzle#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
